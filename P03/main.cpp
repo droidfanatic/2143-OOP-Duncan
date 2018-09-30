@@ -1,3 +1,13 @@
+/*
+*Course: CMPS 2143 - OOP
+*
+*Purpose: tests to see if sfml is working
+*
+*@author Daniel DayCee Duncan
+*@version 1.1 10/1/18
+*@github droidfanatic
+*/
+
 #include <SFML/Graphics.hpp>
 int main() {
 	sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
